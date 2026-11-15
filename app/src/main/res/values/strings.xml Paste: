@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sanyam</string>
+    <string name="eyes_description">Sanyam watches which app is open.</string>
+</resources>
